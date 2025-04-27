@@ -1,0 +1,17 @@
+.animation-1{
+    background-color: rgb(15, 13, 13);
+    color: rgb(112, 132, 93);
+    border-radius: 10px ;
+    width: 200px;
+    height: 100px;
+    font-size: xx-large;
+    cursor: pointer;
+    border: none;
+    transition: 0.25s ease-in;
+    text-align: center;
+    margin: 0 auto;
+    display: flex;
+}
+.animation-1:hover{
+    transform: scale(1.2);
+}
